@@ -1,0 +1,41 @@
+.koerper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    border: 12px solid blue;
+    border-radius: 20%;
+    width: 250px;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+
+.licht {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    color: blue;
+    font-weight: 900;
+    font-size: 32px;
+    border: 3px solid blue;
+}
+
+.rot {
+    background-color: red;
+}
+
+.gelb {
+    background-color: yellow;
+}
+
+.gruen {
+    background-color: green;
+}
+
+.aus {
+    background-color: white;
+    color: white;
+}

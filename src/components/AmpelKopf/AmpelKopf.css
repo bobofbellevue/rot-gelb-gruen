@@ -1,0 +1,8 @@
+#root {
+    color: blue;
+}
+
+.kopf img {
+    border-radius: 50%;
+    width: 400px;
+}
